@@ -7,7 +7,6 @@ https://github.com/user-attachments/assets/394edd0d-3719-4e1a-9c0f-977b0e016655
 
 
 **Flom Orignal Site:**
-
 **3D printed case (STL + assembly):** [MakerWorld](https://makerworld.com/en/models/2872376-esp32-plane-radar-live-ads-b-on-a-round-display#profileId-3207083) · **Firmware:** [Releases](../../releases)
 
 Firmware for an **ESP32-D1 mini (ESP32-WROOM-32)** and a **1.28″ round GC9A01** display (240×240). Shows a circular **ADS-B radar** around your configured location, with flight routes, detailed aircraft models, local weather/time, browser settings, and authenticated OTA updates.
