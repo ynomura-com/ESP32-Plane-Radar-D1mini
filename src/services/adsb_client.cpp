@@ -17,7 +17,7 @@ namespace {
 
 constexpr char kApiBase[] = "https://opendata.adsb.fi/api/v3/lat/";
 constexpr float kKmPerNm = 1.852f;
-constexpr int kConnectAttemptMs = 400; // 200 → 400
+constexpr int kConnectAttemptMs = 500; // 200 → 500 for stable connect
 constexpr unsigned long kAdsbRequestTimeoutMs = 10000;
 constexpr unsigned long kRequestTimeoutMs = 10000;
 constexpr size_t kEnrichmentCacheSize = 48;
