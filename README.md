@@ -4,7 +4,7 @@
 > This repository is based on [iPrintScreen/ESP32-Plane-Radar-](https://github.com/iPrintScreen/ESP32-Plane-Radar-/releases).
 
 
-<img width="640" height="528" alt="plane-radar" src="./assets/planeradar.mov" />
+<img width="640" height="528" alt="plane-radar" src="../assets/PlaneRadar.mov" />
 <img width="800" height="450" alt="plane-radar" src="https://github.com/user-attachments/assets/716d0992-dab8-47ba-8f1a-2aec7f607419" />
 
 **3D printed case (STL + assembly):** [MakerWorld](https://makerworld.com/en/models/2872376-esp32-plane-radar-live-ads-b-on-a-round-display#profileId-3207083) · **Firmware:** [Releases](../../releases)
